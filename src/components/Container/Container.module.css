@@ -1,0 +1,11 @@
+.container {
+  max-width: 500px;
+  position: relative;
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 30px;
+  background-color: var(--bgColor);
+  box-shadow: var(--boxShadow);
+}
